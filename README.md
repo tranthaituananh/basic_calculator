@@ -1,3 +1,2 @@
 # Calculator 
-## Demo
-[Try it](https://tranthaituananh.github.io/basic_calculator/)
+[Demo](https://tranthaituananh.github.io/basic_calculator/)
